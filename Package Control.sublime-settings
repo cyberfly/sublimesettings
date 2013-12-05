@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Auto Semi-Colon",
+		"CodeIgniter Snippets",
+		"CSS Snippets",
+		"Emmet",
+		"FileDiffs",
+		"jQuery Snippets pack",
+		"Package Control",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets",
+		"Xdebug"
+	]
+}
